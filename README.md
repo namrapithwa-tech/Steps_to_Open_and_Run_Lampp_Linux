@@ -1,4 +1,4 @@
-# Steps_to_Open_and_Run_Xampp_Linux
+# Steps_to_Open_and_Run_Lampp_Linux
 
 **Start or Open Lampp in Linux**
 
